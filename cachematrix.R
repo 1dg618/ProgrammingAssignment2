@@ -1,7 +1,8 @@
 #
 # Input: a numeric square matrix
 # Output: a list composed of functions to facilitate reading and storing
-#         values related to the caching and computation of a matrix inverse
+#         values related to the caching and computation of a matrix 
+#         inverse
 #
 makeCacheMatrix <- function(argMatrix = matrix()) {
   
